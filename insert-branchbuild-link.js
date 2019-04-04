@@ -6,6 +6,8 @@
 // @author       Taylor Rogers
 // @match        https://github.com/emsiengineering/cc-frontend/pull/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// @updateUrl    https://raw.githubusercontent.com/trogers1/Insert-Branchbuild-Link/master/insert-branchbuild-link.js
+// @downloadUrl  https://raw.githubusercontent.com/trogers1/Insert-Branchbuild-Link/master/insert-branchbuild-link.js
 // @grant        none
 // ==/UserScript==
 'use strict';
