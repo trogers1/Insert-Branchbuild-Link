@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Branchbuild Link
 // @namespace    http://testsite.emsicc-qa.com/
-// @version      0.1
+// @version      0.2
 // @description  Create a link for the branchbuild for a pull request
 // @author       Taylor Rogers
 // @match        https://github.com/emsiengineering/cc-frontend/pull/*
